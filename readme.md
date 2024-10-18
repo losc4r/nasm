@@ -1,4 +1,8 @@
 # Estudo de comandos NASM
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/UWg9QLQCg6iwyD9njae1csEUBZR34llgIYR2crZI1dvcdNDFq2HX65WmEfnGh8Qcv34" width=70 heigth=70>
+</p>
+
 ## primeiros comandos
 
 * Programa hello world
